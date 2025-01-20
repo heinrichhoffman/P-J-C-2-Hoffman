@@ -5,4 +5,4 @@ b = int(input("Insira o lado B"))
 c = int(input("Insira o lado C"))
 
 resultado = perimetro(a,b,c)
-print(resultado)
+print("O perímetro é igual ", + resultado)
